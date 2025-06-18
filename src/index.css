@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'MotivaSansBold';
+  src: url('assets/fonts/Motiva/MotivaSansBold.woff.ttf');
+}
+
+@font-face {
+  font-family: 'MotivaSansThin';
+  src: url('assets/fonts/Motiva/MotivaSansThin.ttf');
+}
+
+@font-face {
+  font-family: 'MotivaSansMedium';
+  src: url('assets/fonts/Motiva/MotivaSansMedium.woff.ttf');
+}
+
+@font-face {
+  font-family: 'BatmanAlternate';
+  src: url('assets/fonts/Batman/batmfa__.ttf');
+}
+
+body{
+  background-color: black;
+}
