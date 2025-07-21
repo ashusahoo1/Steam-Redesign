@@ -37,7 +37,7 @@ Dynamic game showcases, hover effects, and scroll-activated sections for a riche
 
 ## 🔗 Explore It
 
-* 🔴 **Live Demo:** [View Demo](https://your-steam-demo-link.com)
+* 🔴 **Live Demo:** [View Demo](https://steam-redesign-rho.vercel.app/)
 
 
 ---
@@ -63,7 +63,7 @@ Steam's current design, though functional, hasn’t evolved much visually. This 
 
 Have feedback or ideas? Want help building something similar?
 
-Connect with me on [LinkedIn](https://linkedin.com/in/your-profile)
-📧 Email: `your.email@example.com`
+If you're interested in the implementation or want to discuss this project, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ashutosh-sahoo-32067b110/) or email at `ashutoshsahoo1985@gmail.com`.
+
 
 
